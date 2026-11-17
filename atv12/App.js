@@ -1,4 +1,3 @@
-
 // exemplo 1 - useToggle
 // import React, { useState } from 'react';
 // import { experimental_LayoutConformance } from 'react-native';
